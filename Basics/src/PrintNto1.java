@@ -1,15 +1,16 @@
-package Basics;
+package Arrays;
 
 import java.util.Scanner;
-
-//PROGRAM TO PRINT NUMBERS FROM 1 TO N
-public class Print1toN {
+//PROGRAM TO PRINT NUMBERS FROM N TO 1
+public class PrintNto1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a num: ");
+        System.out.print("Enter num:");
         int n = sc.nextInt();
-        for(int i=1;i<=n;i++){
+
+        for(int i=n;i>=1;i--){
             System.out.println(i);
         }
+
     }
 }

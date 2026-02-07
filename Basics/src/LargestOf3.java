@@ -1,4 +1,4 @@
-package Basics;
+package Arrays;
 
 import java.util.Scanner;
 //Program to find largest of 3 numbers

@@ -1,4 +1,4 @@
-package Basics;
+package Arrays;
 
 import java.util.Scanner;
 //PROGRAM TO PRINT SUM OF FIRST N NUMBER

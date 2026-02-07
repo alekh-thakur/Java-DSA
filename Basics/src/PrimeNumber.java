@@ -1,4 +1,4 @@
-package Basics;
+package Arrays;
 
 import java.util.Scanner;
 //Program to check a number is prime or not

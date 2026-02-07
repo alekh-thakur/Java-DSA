@@ -1,4 +1,4 @@
-package Basics;
+package Arrays;
 
 import java.util.Scanner;
 //PROGRAM TO CHECK A  NUMBER IS A PALINDROME OR NOT
